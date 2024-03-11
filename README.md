@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>TrenDB </b>
+- <b> </b>
 
 <h2> 🤳 Connect with me:</h2>
 
