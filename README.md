@@ -1,7 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Sophia! </h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>TrenDB </b>
+
+<h2> 🤳 Connect with me:</h2>
+
+[linkedin]: https://linkedin.com/in/sophiahall-srh95
 
 <!--
-**srh95/srh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
