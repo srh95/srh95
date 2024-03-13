@@ -31,6 +31,6 @@ Feel free to explore my repositories to learn more about what I'm working on!
 
 ## Get in Touch
 
-- LinkedIn: linkedin.com/in/sophiahall-srh95![image](https://github.com/srh95/srh95/assets/72227777/6264ff80-fdcf-490d-87f4-a87a7ca911c4)
+- [LinkedIn](linkedin.com/in/sophiahall-srh95)
 
 Let's connect and collaborate!
