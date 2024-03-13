@@ -5,7 +5,8 @@ Welcome to my GitHub profile! I'm passionate about software engineering and web 
 ## About Me
 
 - 💼 Currently a Master's student studying Computer Science
-- 🌱 I'm currently learning ReactJS and Javascript
+- 🌱 I'm currently learning ReactJS and JavaScript
+- 📚 My tech stack: Java, Python, Javascript, ReactJS, Spring Boot, Django, SQL, CSS/HTML, AWS, Postman
 - 📫 How to reach me: sophia.hall@case.edu
 
 ## Hiring Status
@@ -16,9 +17,10 @@ I'm actively seeking full-time opportunities as a software engineer, Java develo
 
 Here are a few projects I'm proud of:
 
-- [Project 1](Link to Project 1): Brief description of Project 1.
-- [Project 2](Link to Project 2): Brief description of Project 2.
-- [Project 3](Link to Project 3): Brief description of Project 3.
+- [RacePace][(Link to Project 1)](https://github.com/srh95/RacePace): 
+- [TrenDB][(Link to Project 2)](https://github.com/srh95/TrenDB):
+- [Method] [(Link to Project 3)](https://github.com/srh95/CSDS-395-Senior-Project):
+- [Eats][(Link to Project 4)](https://github.com/srh95/CSDS-393-Project-): 
 
 Feel free to explore my repositories to learn more about what I'm working on!
 
