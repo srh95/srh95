@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about software engineering and web 
 
 ## Hiring Status
 
-I'm actively seeking full-time opportunities as a software engineer, Java developer, backend web developer or full stack developer. If you think I'd be a good fit for your team, I'd love to hear from you!
+I'm actively seeking full-time opportunities as a software engineer, Java developer, Python developer, backend web developer or full stack developer. If you think I'd be a good fit for your team, I'd love to hear from you!
 
 ## Projects
 
