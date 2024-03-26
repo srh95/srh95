@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software engineering and web 
 ## About Me
 
 - 💼 Currently a Master's student studying Computer Science
-- 🌱 I'm currently learning ReactJS and JavaScript
+- 🌱 I'm currently learning Spring Boot and JavaScript
 - 📚 My tech stack: Java, Python, Javascript, ReactJS, Spring Boot, Django, SQL, CSS/HTML, AWS, Postman
 - 📫 How to reach me: sophia.hall@case.edu
 
