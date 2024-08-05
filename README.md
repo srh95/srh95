@@ -17,7 +17,7 @@ I'm actively seeking full-time opportunities as a software engineer, Java develo
 
 Here are a few projects I'm proud of:
 
-- [RacePace](https://github.com/srh95/RacePace) (Spring 2024): Simple API to manage running workouts. Built using Java, Spring Boot, Angular, and Bootstrap.
+- [RacePace](https://github.com/srh95/RacePace) (Spring 2024): Simple API to manage running workouts. Built using Java and Spring Boot.
   
 - [TrenDB](https://github.com/srh95/TrenDB) (Summer 2023): A web platform to track and analyze Mexican Train domino game statistics. Built using Python, Django, ReactJS, and JavaScript.
   
